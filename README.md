@@ -6,8 +6,9 @@ This project analyses Superstore sales data to help business users understand sa
 The report contains two interactive pages:
 
 - **Executive Sales Overview** - sales KPIs, quarterly sales trend, regional performance, and category sales share.
+- ![Executive Sales Overview](./executive-sales-overview.png)
 - **Product & Customer Analysis** - Top/Bottom 10 products, top customers, category analysis, detailed tables, and interactive filters.
-
+![Product and Customer Analysis](./product-customer-analysis.png)
 ## Business questions
 
 - How are sales performing compared with the previous year?
